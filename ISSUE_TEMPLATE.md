@@ -1,5 +1,4 @@
-- [ ] I have searched the [issues](
-https://github.com/BoostIO/issuehunt-requests/issues) of this repository and believe that this is not a duplicate.
+- [ ] I have checked that the repository is not registered to [IssueHunt](https://issuehunt.io/repos) yet and there are not duplicated requests for it.
 
 - GitHub URL: [required]
 - Ping to maintainers🔔: [option]

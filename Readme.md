@@ -1,0 +1,1 @@
+Do you want to fund some issues in a repository which isn't registered in [Issuehunt](https://issuehunt.io/) yet? Please ping us so we could help you!
